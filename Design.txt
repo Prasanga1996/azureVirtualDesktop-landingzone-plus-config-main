@@ -1,0 +1,10 @@
+3 Folders are created.
+Subscription Location is required in most of the modules. -2
+Tagging is also required in most of the modules. -2
+clientShortHand is also required. - 2
+Subnet_id reference is required in most of the modules - 1
+
+--------------------------
+All modules will be called in a single file.
+
+
